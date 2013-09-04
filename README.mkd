@@ -1,3 +1,3 @@
-![schematics](/sebseb7/SBusServoAdapter/raw/master/schematics.png)
+![schematics](https://raw.github.com/sebseb7/SBusServoAdapter/master/schematics.png)
 
-![board](/sebseb7/SBusServoAdapter/raw/master/board.png)
+![board](https://raw.github.com/sebseb7/SBusServoAdapter/master/board.png)
